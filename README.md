@@ -105,4 +105,4 @@ B.Tech Artificial Intelligence & Data Science
 
 LinkedIn: https://www.linkedin.com/in/mohamed-munthasir-s/
 
-GitHub: *([Add your GitHub profile](https://github.com/mohamedmunthasirs23))*
+GitHub: https://github.com/mohamedmunthasirs23
